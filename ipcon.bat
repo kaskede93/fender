@@ -1,4 +1,6 @@
-ho Global Financial Services Configuration Manager - %date% %time%
+@echo off
+
+echo Global Financial Services Configuration Manager - %date% %time%
 timeout /t 2 >nul
 
 echo Prompt: Please select the target location:
